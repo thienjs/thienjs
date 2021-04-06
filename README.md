@@ -1,10 +1,10 @@
 - 👋 Hi, I’m thien
-- 👀 I’m interested in ...
+- 👀 I’m interested in a web dev job.
 - 🌱 I’m currently learning nextjs, react, and javascript structures.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on open source projects.
 - 📫 How to reach me:
   - email: hi@thien.me
-  - twitter: @thienmtran
+  - twitter: @thientxt
   - github: @thienjs
   - discord: @thien#4420
 - [buy me coffee](https://buymeacoffee.com/thien)
