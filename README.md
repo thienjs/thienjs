@@ -6,7 +6,7 @@
   - email: hi@thien.me
   - twitter: @thientxt
   - github: @thienjs
-  - discord: @thien#4420
+  - discord: @thien#0601
 - [buy me coffee](https://buymeacoffee.com/thien)
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/925868267690672208
