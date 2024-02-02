@@ -1,7 +1,7 @@
 - Hi, I’m Thien. I’m interested in a entry level developer job.
 - How to reach me:
   - email: hi@thien.me
-  - twitter: @thienjsx
+  - twitter: @thien_io
   - github: @thienjs
   - discord: @thien#0601
 - [buy me coffee](https://buymeacoffee.com/thien)
