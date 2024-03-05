@@ -3,7 +3,7 @@
   - email: hi@thien.me
   - twitter: @thien_io
   - github: @thienjs
-  - discord: @thien#0601
+  - discord: @thienio
 - [buy me coffee](https://buymeacoffee.com/thien)
 
 <!---
